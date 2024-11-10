@@ -1,12 +1,15 @@
 <h1 align="center"> 
   Hi
   <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/wave.gif" 
-         alt="Waving hand animated gif"         
-         width="40"/>,
+       alt="Waving hand animated gif"         
+       width="40"/>,
    I'm <b>Sneha</b>
 </h1>
+
 <h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=5854F7&width=435&lines=An+Aspiring+Web+Developer;An+Aspiring+UI%2FUX+Designer;Always+learning+new+things!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=5854F7&width=435&lines=An+Aspiring+Web+Developer;An+Aspiring+UI%2FUX+Designer;Always+learning+new+things!" alt="Typing SVG" />
+  </a>
 </h3>
 
 <p align="center">
@@ -18,22 +21,30 @@
 </p>
 
 <p align="center">
-   👨‍💻 All of my projects are available at <a href="https://snehasportfolio.vercel.app/">https://snehasportfolio.vercel.app/</a>
-</p>
-
-<p align="center">
-   📫 You can reach me at <strong>padgaonkarsneha@gmail.com</strong>
+   👨‍💻 Explore my work at <a href="https://snehasportfolio.vercel.app/"> https://snehasportfolio.vercel.app/</a>
 </p>
 
 <p align="center">
    ⚡ Fun fact: <strong>Passion significantly boosts your ability to learn new things!</strong>
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center"><b>Connect with me via :-</b></h3>
 <p align="center">
-  <a href="https://linkedin.com/in/snehapadgaonkar" target="blank">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <!-- GitHub -->
+  <a target="_blank" href="https://github.com/snehapadgaonkar">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <br>
+  
+  <!-- LinkedIn -->
+  <a target="_blank" href="https://www.linkedin.com/in/sneha-padgaonkar-59a098200/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077D9?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  
+  <!-- GMail -->
+  <a target="_blank" href="mailto:padgaonkarsneha@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
 </p>
 
@@ -43,10 +54,8 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
