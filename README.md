@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  Hi
+  Hi there
   <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/wave.gif" 
        alt="Waving hand animated gif"         
        width="40"/>,
@@ -16,28 +16,18 @@
   </div>
 <div style="display: flex; align-items: left; justify-content: space-between;">
   <div style="flex: 1;">
-    <p>🎓 I am a <strong>Third-year Computer Science</strong> student at <strong>Symbiosis Institute of Technology</strong>, Pune</p>
-    <p>🌱 I’m currently learning <strong>Web Development & DevOps</strong></p>
-    <p>👨‍💻 Explore my work at <a href="https://snehasportfolio.vercel.app/">https://snehasportfolio.vercel.app/</a></p>
-    <p>⚡ Fun fact: <strong>Passion significantly boosts your ability to learn new things!</strong></p>
+    <div style="flex: 1;">
+    <p>🎓 I'm a <strong>Third-year Computer Science</strong> student at <strong>SIT</strong>, Pune.</p>
+    <p>🌱 Currently learning <strong>Web Development & DevOps</strong></p>
+<p>🚀 Passionate about cloud computing, and optimizing DevOps workflows to streamline development and deployment.</p>
+<p>👨‍💻 Check out my work at <a href="https://snehasportfolio.vercel.app/">https://snehasportfolio.vercel.app/</a></p>
+<p>⚡ Fun fact: <strong>Passion fuels learning!</strong></p>
+<p>📚 Always learning through courses, problem-solving, and staying updated on the latest tech trends.</p>
+<p>🌱 When I'm not coding, I enjoy <strong>reading tech blogs</strong>, <strong>attending webinars.</strong></p>
+
+</div>
   </div>
 </div>
-<h3 align="center"><b>Connect with me via :-</b></h3>
-<p align="center">
-  <!-- GitHub -->
-  <a target="_blank" href="https://github.com/snehapadgaonkar">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  
-  <!-- LinkedIn -->
-  <a target="_blank" href="https://www.linkedin.com/in/sneha-padgaonkar-59a098200/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077D9?style=for-the-badge&logo=Linkedin&logoColor=white" />
-  </a>
-  <!-- GMail -->
-  <a target="_blank" href="mailto:padgaonkarsneha@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
-</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -69,4 +59,20 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+</p>
+<h3 align="center"><b>Connect with me via :-</b></h3>
+<p align="center">
+  <!-- GitHub -->
+  <a target="_blank" href="https://github.com/snehapadgaonkar">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <!-- LinkedIn -->
+  <a target="_blank" href="https://www.linkedin.com/in/sneha-padgaonkar-59a098200/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077D9?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <!-- GMail -->
+  <a target="_blank" href="mailto:padgaonkarsneha@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
 </p>
