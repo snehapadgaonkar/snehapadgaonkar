@@ -8,26 +8,20 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=5854F7&width=435&lines=An+Aspiring+Web+Developer;An+Aspiring+UI%2FUX+Designer;Always+learning+new+things!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=5854F7&width=435&lines=An+Aspiring+Web+Developer;An+Aspiring+UI%2FUX+Designer;Always+learning+new+things!" alt="Typing SVG" />
   </a>
 </h3>
-
-<p align="center">
-   🎓 I am a <strong>Third-year Computer Science</strong> student at <strong>Symbiosis Institute of Technology</strong>, Pune
-</p>
-
-<p align="center">
-   🌱 I’m currently learning <strong>Web Development & DevOps</strong>
-</p>
-
-<p align="center">
-   👨‍💻 Explore my work at <a href="https://snehasportfolio.vercel.app/"> https://snehasportfolio.vercel.app/</a>
-</p>
-
-<p align="center">
-   ⚡ Fun fact: <strong>Passion significantly boosts your ability to learn new things!</strong>
-</p>
-
+<div>
+    <img src="images/pic.jpg" style="min-width: 400px; max-width: 400px; width: 40%" alt="Sneha's Image" align="right"/>
+  </div>
+<div style="display: flex; align-items: left; justify-content: space-between;">
+  <div style="flex: 1;">
+    <p>🎓 I am a <strong>Third-year Computer Science</strong> student at <strong>Symbiosis Institute of Technology</strong>, Pune</p>
+    <p>🌱 I’m currently learning <strong>Web Development & DevOps</strong></p>
+    <p>👨‍💻 Explore my work at <a href="https://snehasportfolio.vercel.app/">https://snehasportfolio.vercel.app/</a></p>
+    <p>⚡ Fun fact: <strong>Passion significantly boosts your ability to learn new things!</strong></p>
+  </div>
+</div>
 <h3 align="center"><b>Connect with me via :-</b></h3>
 <p align="center">
   <!-- GitHub -->
@@ -35,13 +29,10 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   
-  <br>
-  
   <!-- LinkedIn -->
   <a target="_blank" href="https://www.linkedin.com/in/sneha-padgaonkar-59a098200/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077D9?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
-  
   <!-- GMail -->
   <a target="_blank" href="mailto:padgaonkarsneha@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
