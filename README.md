@@ -19,7 +19,7 @@
     <div style="flex: 1;">
     <p>🎓 I'm a <strong>Third-year Computer Science</strong> student at <strong>SIT</strong>, Pune.</p>
     <p>🌱 Currently learning <strong>Web Development & DevOps</strong></p>
-<p>🚀 Passionate about cloud computing, and optimizing DevOps workflows to streamline development and deployment.</p>
+<p>🚀 Passionate about Machine Learning, Data Science, and leveraging AI to solve real-world problems.</p>
 <p>👨‍💻 Check out my work at <a href="https://snehasportfolio.vercel.app/">https://snehasportfolio.vercel.app/</a></p>
 <p>⚡ Fun fact: <strong>Passion fuels learning!</strong></p>
 <p>📚 Always learning through courses, problem-solving, and staying updated on the latest tech trends.</p>
