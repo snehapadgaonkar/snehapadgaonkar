@@ -22,8 +22,6 @@
     <p>🚀 Passionate about Machine Learning, Data Science, and leveraging AI to solve real-world problems.</p>
     <p>👨‍💻 Check out my work at <a href="https://snehasportfolio.vercel.app/">My Portfolio</a></p>
     <p>🎨 Fun fact: <strong>Sketching and Painting</strong> are my creative escapes.</p>
-    <p>📚 Always learning through courses, problem-solving, and staying updated on the latest tech trends.</p>
-    <p>🌱 When I'm not coding, I enjoy <strong>reading tech blogs</strong>, <strong>attending webinars.</strong></p>
   </div>
 </div>
 
