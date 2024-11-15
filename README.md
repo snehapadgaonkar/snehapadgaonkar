@@ -115,7 +115,7 @@
   </a>
 </p>
 
-<h3 align="center"><b>Connect with me via :-</b></h3>
+<h3 align="center"><img src="./images/handshake.gif" width="46" alt="Contact" /><b>Connect with me via :-</b></h3>
 <p align="center">
   <!-- GitHub -->
   <a target="_blank" href="https://github.com/snehapadgaonkar">
