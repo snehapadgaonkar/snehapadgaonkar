@@ -1,14 +1,14 @@
 <h1 align="center">
-  Hi there
+  Hi
   <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/wave.gif" 
        alt="Waving hand animated gif" width="40" />,
-  I'm <b>Sneha</b>
+  I'm <b>Sneha Padgaonkar</b>
 </h1>
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=5854F7&width=435&lines=An+Aspiring+Web+Developer;An+Aspiring+UI%2FUX+Designer;Always+learning+new+things!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=5854F7&width=435&lines=An+Aspiring+Web+Developer;An+AI+Enthusiast;An+Aspiring+UI%2FUX+Designer;Always+learning+new+things!" alt="Typing SVG" />
   </a>
 </h3>
 <h2> A little more about me...</h2>
@@ -20,7 +20,7 @@
     <p>🎓 I'm a <strong>Third-year Computer Science</strong> student at <strong>SIT</strong>, Pune.</p>
     <p>🌱 Currently learning <strong>Web Development & DevOps</strong></p>
     <p>🚀 Passionate about Machine Learning, Data Science, and leveraging AI to solve real-world problems.</p>
-    <p>👨‍💻 Check out my work at <a href="https://snehasportfolio.vercel.app/">https://snehasportfolio.vercel.app/</a></p>
+    <p>👨‍💻 Check out my work at <a href="https://snehasportfolio.vercel.app/">My Portfolio</a></p>
     <p>🎨 Fun fact: <strong>Sketching and Painting</strong> are my creative escapes.</p>
     <p>📚 Always learning through courses, problem-solving, and staying updated on the latest tech trends.</p>
     <p>🌱 When I'm not coding, I enjoy <strong>reading tech blogs</strong>, <strong>attending webinars.</strong></p>
