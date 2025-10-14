@@ -17,7 +17,7 @@
 </div>
 <div style="display: flex; align-items: left; justify-content: space-between;">
   <div style="flex: 1;">
-    <p>🎓 I'm a <strong>Third-year Computer Science</strong> student at <strong>SIT</strong>, Pune.</p>
+    <p>🎓 I'm a <strong>Final year Computer Science</strong> student at <strong>SIT</strong>, Pune.</p>
     <p>🌱 Currently learning <strong>Web Development & DevOps</strong></p>
     <p>🚀 Passionate about Machine Learning, Data Science, and leveraging AI to solve real-world problems.</p>
     <p>👨‍💻 Check out my work at <a href="https://snehasportfolio.vercel.app/">My Portfolio</a></p>
