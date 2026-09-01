@@ -8,7 +8,7 @@
 <h3 align="center">
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=5854F7&width=435&lines=An+Aspiring+Data+Scientist;An+AI+Enthusiast;An+Aspiring+Web+Developer;Always+learning+new+things!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=5854F7&width=435&lines=An+Aspiring+Data+Scientist;An+AI+Enthusiast;An+Aspiring+ML+Engineer;Always+learning+new+things!" alt="Typing SVG" />
   </a>
 </h3>
 <h2> A little more about me...</h2>
@@ -17,8 +17,8 @@
 </div>
 <div style="display: flex; align-items: left; justify-content: space-between;">
   <div style="flex: 1;">
-    <p>🎓 I'm a <strong>Final year Computer Science</strong> student at <strong>SIT</strong>, Pune.</p>
-    <p>🌱 Currently learning <strong>Web Development & DevOps</strong></p>
+    <p>🎓 I'm a <strong>Computer Science with Hons. in AIML </strong> graduate at <strong>SIT</strong>, Pune.</p>
+    <p>🌱 Currently exploring <strong>Agentic AI, Workflow Automation & DevOps</strong></p>
     <p>🚀 Passionate about Machine Learning, Data Science, and leveraging AI to solve real-world problems.</p>
     <p>👨‍💻 Check out my work at <a href="https://snehasportfolio.vercel.app/">My Portfolio</a></p>
     <p>🎨 Fun fact: <strong>Sketching and Painting</strong> are my creative escapes.</p>
